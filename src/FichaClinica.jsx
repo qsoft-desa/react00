@@ -61,6 +61,8 @@ const CONSULTAS = [
   { key: "6", fecha: "01/01/24", texto: "Peas" },
 ];
 
+// este cambio
+
 // fecha, clave, valor)
 
 // fecha, (clave, valor), fecha, (calve, valor), fecha
